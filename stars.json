@@ -1,15 +1,15 @@
 [
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58455,
+    "stargazers_count": 58484,
     "open_issues_count": 60,
     "forks_count": 1374
   },
   {
     "full_name": "foxlet/macOS-Simple-KVM",
-    "stargazers_count": 12508,
+    "stargazers_count": 12523,
     "open_issues_count": 342,
-    "forks_count": 1108
+    "forks_count": 1111
   },
   {
     "full_name": "cdklabs/cdk-watchful",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 1615,
-    "open_issues_count": 133,
-    "forks_count": 242
+    "stargazers_count": 1621,
+    "open_issues_count": 136,
+    "forks_count": 244
   }
 ]
