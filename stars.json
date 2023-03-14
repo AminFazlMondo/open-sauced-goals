@@ -1,21 +1,21 @@
 [
   {
     "full_name": "salomonelli/best-resume-ever",
-    "stargazers_count": 15872,
-    "open_issues_count": 42,
+    "stargazers_count": 15883,
+    "open_issues_count": 43,
     "forks_count": 2255
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 59478,
+    "stargazers_count": 59513,
     "open_issues_count": 62,
-    "forks_count": 1397
+    "forks_count": 1398
   },
   {
     "full_name": "foxlet/macOS-Simple-KVM",
-    "stargazers_count": 12907,
+    "stargazers_count": 12921,
     "open_issues_count": 353,
-    "forks_count": 1151
+    "forks_count": 1154
   },
   {
     "full_name": "cdklabs/cdk-watchful",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 1913,
-    "open_issues_count": 143,
-    "forks_count": 290
+    "stargazers_count": 1918,
+    "open_issues_count": 146,
+    "forks_count": 291
   }
 ]
