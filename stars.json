@@ -1,9 +1,9 @@
 [
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 1577,
-    "open_issues_count": 661,
-    "forks_count": 52
+    "stargazers_count": 1594,
+    "open_issues_count": 665,
+    "forks_count": 53
   },
   {
     "full_name": "mrgrain/jsii-struct-builder",
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "salomonelli/best-resume-ever",
-    "stargazers_count": 16056,
-    "open_issues_count": 44,
+    "stargazers_count": 16059,
+    "open_issues_count": 45,
     "forks_count": 2286
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 60564,
+    "stargazers_count": 60574,
     "open_issues_count": 64,
-    "forks_count": 1421
+    "forks_count": 1422
   },
   {
     "full_name": "foxlet/macOS-Simple-KVM",
-    "stargazers_count": 13141,
-    "open_issues_count": 357,
-    "forks_count": 1171
+    "stargazers_count": 13151,
+    "open_issues_count": 358,
+    "forks_count": 1172
   },
   {
     "full_name": "cdklabs/cdk-watchful",
@@ -37,8 +37,8 @@
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 2122,
-    "open_issues_count": 150,
-    "forks_count": 321
+    "stargazers_count": 2127,
+    "open_issues_count": 151,
+    "forks_count": 322
   }
 ]
