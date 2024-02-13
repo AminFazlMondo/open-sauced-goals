@@ -1,14 +1,14 @@
 [
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 23077,
-    "open_issues_count": 31,
-    "forks_count": 2021
+    "stargazers_count": 23085,
+    "open_issues_count": 28,
+    "forks_count": 2023
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 3302,
-    "open_issues_count": 822,
+    "stargazers_count": 3314,
+    "open_issues_count": 824,
     "forks_count": 123
   },
   {
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 61130,
+    "stargazers_count": 61146,
     "open_issues_count": 66,
-    "forks_count": 1436
+    "forks_count": 1437
   },
   {
     "full_name": "foxlet/macOS-Simple-KVM",
-    "stargazers_count": 13422,
+    "stargazers_count": 13426,
     "open_issues_count": 363,
     "forks_count": 1191
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 2367,
+    "stargazers_count": 2368,
     "open_issues_count": 207,
     "forks_count": 352
   }
