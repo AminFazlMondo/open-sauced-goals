@@ -1,9 +1,9 @@
 [
   {
     "full_name": "dynamodb-toolbox/dynamodb-toolbox",
-    "stargazers_count": 1805,
+    "stargazers_count": 1809,
     "open_issues_count": 45,
-    "forks_count": 167
+    "forks_count": 168
   },
   {
     "full_name": "MondoPower/mondo-cmsep-dashboard",
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 23819,
+    "stargazers_count": 23820,
     "open_issues_count": 21,
     "forks_count": 1979
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 4913,
-    "open_issues_count": 872,
+    "stargazers_count": 4926,
+    "open_issues_count": 873,
     "forks_count": 194
   },
   {
     "full_name": "mrgrain/jsii-struct-builder",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "foxlet/macOS-Simple-KVM",
-    "stargazers_count": 13596,
+    "stargazers_count": 13601,
     "open_issues_count": 368,
     "forks_count": 1141
   },
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 2586,
-    "open_issues_count": 221,
-    "forks_count": 369
+    "stargazers_count": 2588,
+    "open_issues_count": 222,
+    "forks_count": 368
   }
 ]
