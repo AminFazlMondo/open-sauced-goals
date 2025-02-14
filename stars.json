@@ -1,14 +1,14 @@
 [
   {
     "full_name": "raidendotai/cofounder",
-    "stargazers_count": 5857,
-    "open_issues_count": 67,
-    "forks_count": 641
+    "stargazers_count": 5865,
+    "open_issues_count": 68,
+    "forks_count": 640
   },
   {
     "full_name": "dynamodb-toolbox/dynamodb-toolbox",
-    "stargazers_count": 1879,
-    "open_issues_count": 44,
+    "stargazers_count": 1881,
+    "open_issues_count": 43,
     "forks_count": 181
   },
   {
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 24379,
-    "open_issues_count": 23,
-    "forks_count": 1999
+    "stargazers_count": 24397,
+    "open_issues_count": 22,
+    "forks_count": 1998
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 5138,
+    "stargazers_count": 5144,
     "open_issues_count": 899,
     "forks_count": 201
   },
@@ -43,26 +43,26 @@
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 62192,
+    "stargazers_count": 62210,
     "open_issues_count": 67,
-    "forks_count": 1356
+    "forks_count": 1355
   },
   {
     "full_name": "foxlet/macOS-Simple-KVM",
-    "stargazers_count": 13705,
+    "stargazers_count": 13706,
     "open_issues_count": 366,
-    "forks_count": 1146
+    "forks_count": 1147
   },
   {
     "full_name": "cdklabs/cdk-watchful",
-    "stargazers_count": 533,
+    "stargazers_count": 534,
     "open_issues_count": 10,
     "forks_count": 43
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 2750,
+    "stargazers_count": 2752,
     "open_issues_count": 240,
-    "forks_count": 383
+    "forks_count": 385
   }
 ]
