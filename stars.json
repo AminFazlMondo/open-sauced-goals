@@ -1,15 +1,15 @@
 [
   {
     "full_name": "raidendotai/cofounder",
-    "stargazers_count": 5865,
-    "open_issues_count": 68,
-    "forks_count": 640
+    "stargazers_count": 5979,
+    "open_issues_count": 69,
+    "forks_count": 656
   },
   {
     "full_name": "dynamodb-toolbox/dynamodb-toolbox",
-    "stargazers_count": 1881,
-    "open_issues_count": 43,
-    "forks_count": 181
+    "stargazers_count": 1880,
+    "open_issues_count": 41,
+    "forks_count": 180
   },
   {
     "full_name": "MondoPower/mondo-cmsep-dashboard",
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 24397,
+    "stargazers_count": 24412,
     "open_issues_count": 22,
-    "forks_count": 1998
+    "forks_count": 1999
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 5144,
+    "stargazers_count": 5150,
     "open_issues_count": 899,
     "forks_count": 201
   },
@@ -37,21 +37,21 @@
   },
   {
     "full_name": "salomonelli/best-resume-ever",
-    "stargazers_count": 16369,
+    "stargazers_count": 16373,
     "open_issues_count": 59,
     "forks_count": 2290
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 62210,
+    "stargazers_count": 62234,
     "open_issues_count": 67,
-    "forks_count": 1355
+    "forks_count": 1357
   },
   {
     "full_name": "foxlet/macOS-Simple-KVM",
-    "stargazers_count": 13706,
+    "stargazers_count": 13705,
     "open_issues_count": 366,
-    "forks_count": 1147
+    "forks_count": 1150
   },
   {
     "full_name": "cdklabs/cdk-watchful",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 2752,
-    "open_issues_count": 240,
+    "stargazers_count": 2754,
+    "open_issues_count": 246,
     "forks_count": 385
   }
 ]
