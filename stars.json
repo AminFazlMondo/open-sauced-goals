@@ -1,15 +1,15 @@
 [
   {
     "full_name": "workadventure/workadventure",
-    "stargazers_count": 5359,
+    "stargazers_count": 5369,
     "open_issues_count": 845,
-    "forks_count": 842
+    "forks_count": 845
   },
   {
     "full_name": "nraiden/cofounder",
-    "stargazers_count": 6641,
+    "stargazers_count": 6642,
     "open_issues_count": 68,
-    "forks_count": 724
+    "forks_count": 725
   },
   {
     "full_name": "dynamodb-toolbox/dynamodb-toolbox",
@@ -25,39 +25,39 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 25250,
+    "stargazers_count": 25249,
     "open_issues_count": 14,
     "forks_count": 2007
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 5379,
+    "stargazers_count": 5378,
     "open_issues_count": 898,
-    "forks_count": 212
+    "forks_count": 213
   },
   {
     "full_name": "mrgrain/jsii-struct-builder",
     "stargazers_count": 34,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "salomonelli/best-resume-ever",
-    "stargazers_count": 16460,
+    "stargazers_count": 16459,
     "open_issues_count": 58,
     "forks_count": 2289
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 62828,
+    "stargazers_count": 62827,
     "open_issues_count": 71,
     "forks_count": 1368
   },
   {
     "full_name": "foxlet/macOS-Simple-KVM",
-    "stargazers_count": 13900,
+    "stargazers_count": 13901,
     "open_issues_count": 362,
-    "forks_count": 1141
+    "forks_count": 1138
   },
   {
     "full_name": "cdklabs/cdk-watchful",
@@ -67,8 +67,8 @@
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 2914,
-    "open_issues_count": 262,
-    "forks_count": 401
+    "stargazers_count": 2916,
+    "open_issues_count": 261,
+    "forks_count": 402
   }
 ]
