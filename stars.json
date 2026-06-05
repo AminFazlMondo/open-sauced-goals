@@ -1,9 +1,9 @@
 [
   {
     "full_name": "workadventure/workadventure",
-    "stargazers_count": 5490,
-    "open_issues_count": 868,
-    "forks_count": 881
+    "stargazers_count": 5501,
+    "open_issues_count": 870,
+    "forks_count": 883
   },
   {
     "full_name": "nraiden/cofounder",
@@ -14,24 +14,24 @@
   {
     "full_name": "dynamodb-toolbox/dynamodb-toolbox",
     "stargazers_count": 2000,
-    "open_issues_count": 39,
+    "open_issues_count": 40,
     "forks_count": 180
   },
   {
     "full_name": "MondoPower/mondo-cmsep-dashboard",
     "stargazers_count": 1,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 1
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 25366,
-    "open_issues_count": 19,
-    "forks_count": 2012
+    "stargazers_count": 25367,
+    "open_issues_count": 17,
+    "forks_count": 2013
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 5386,
+    "stargazers_count": 5385,
     "open_issues_count": 898,
     "forks_count": 214
   },
@@ -39,17 +39,17 @@
     "full_name": "mrgrain/jsii-struct-builder",
     "stargazers_count": 34,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "salomonelli/best-resume-ever",
-    "stargazers_count": 16464,
+    "stargazers_count": 16465,
     "open_issues_count": 57,
-    "forks_count": 2280
+    "forks_count": 2279
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 62866,
+    "stargazers_count": 62868,
     "open_issues_count": 76,
     "forks_count": 1369
   },
@@ -57,17 +57,17 @@
     "full_name": "foxlet/macOS-Simple-KVM",
     "stargazers_count": 13912,
     "open_issues_count": 363,
-    "forks_count": 1142
+    "forks_count": 1143
   },
   {
     "full_name": "cdklabs/cdk-watchful",
     "stargazers_count": 543,
     "open_issues_count": 6,
-    "forks_count": 41
+    "forks_count": 40
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 2930,
+    "stargazers_count": 2931,
     "open_issues_count": 268,
     "forks_count": 409
   }
