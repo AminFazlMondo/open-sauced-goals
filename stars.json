@@ -1,9 +1,9 @@
 [
   {
     "full_name": "workadventure/workadventure",
-    "stargazers_count": 5530,
-    "open_issues_count": 876,
-    "forks_count": 895
+    "stargazers_count": 5535,
+    "open_issues_count": 881,
+    "forks_count": 901
   },
   {
     "full_name": "nraiden/cofounder",
@@ -25,13 +25,13 @@
   },
   {
     "full_name": "homebridge/homebridge",
-    "stargazers_count": 25394,
-    "open_issues_count": 16,
+    "stargazers_count": 25397,
+    "open_issues_count": 17,
     "forks_count": 2011
   },
   {
     "full_name": "winglang/wing",
-    "stargazers_count": 5386,
+    "stargazers_count": 5388,
     "open_issues_count": 898,
     "forks_count": 213
   },
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 62863,
+    "stargazers_count": 62861,
     "open_issues_count": 76,
     "forks_count": 1369
   },
   {
     "full_name": "foxlet/macOS-Simple-KVM",
-    "stargazers_count": 13912,
+    "stargazers_count": 13914,
     "open_issues_count": 362,
     "forks_count": 1143
   },
@@ -68,7 +68,7 @@
   {
     "full_name": "projen/projen",
     "stargazers_count": 2936,
-    "open_issues_count": 258,
+    "open_issues_count": 245,
     "forks_count": 410
   }
 ]
