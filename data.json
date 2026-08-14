@@ -1,13 +1,13 @@
 [
   {
     "full_name": "cdklabs/cdk-watchful",
-    "stargazers_count": 542,
+    "stargazers_count": 541,
     "open_issues_count": 6,
     "forks_count": 39
   },
   {
     "full_name": "projen/projen",
-    "stargazers_count": 2937,
+    "stargazers_count": 2940,
     "open_issues_count": 245,
     "forks_count": 410
   },
@@ -15,6 +15,6 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 948,
     "open_issues_count": 0,
-    "forks_count": 1182
+    "forks_count": 1183
   }
 ]
